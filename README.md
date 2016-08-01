@@ -2,7 +2,7 @@
 Small python script for ASU BIO-310 research to merge both .csv files into the single one needed.
 
 #### To use:
-1. Download the repo using the "Download ZIP" link to the right
+1. [Download the repo](https://github.com/rsimmons1127/MergeCSV/archive/master.zip)
 2. Unzip the download to desired location
 3. If you have Python installed, mergeCSV.py can be ran directly. Otherwise run mergeCSV.exe from the MergeCSV folder
 4. Once running, you will be prompted to select the 2 files to merge. Navigate to the folder, select both (CTRL+click), and click 'open'
